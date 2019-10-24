@@ -1,6 +1,6 @@
 # PyCharm PyQGIS setup guide
 
-**Guide to setting up Pycharm for QGIS development.**
+**Guide to setting up Pycharm for QGIS development**
 
 1. Create a .bat file in *C:\OSGeo4W64\bin* and name it pycharm.bat
 1. Copy the code showed below: 
