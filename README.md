@@ -27,3 +27,5 @@ set QT_PLUGIN_PATH=%OSGEO4W_ROOT%\apps\qgis\qtplugins;%OSGEO4W_ROOT%\apps\Qt5\pl
 start "PyCharm aware of QGIS" /B %PYCHARM% %*
 ```
 3. Create a desktop shortcup to the bat and launch it
+
+[x]**Important**: do not install PyCharm v2019, it's bugged and doesn't launch correctly for QGIS development.
