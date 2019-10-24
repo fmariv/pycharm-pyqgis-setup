@@ -28,4 +28,4 @@ start "PyCharm aware of QGIS" /B %PYCHARM% %*
 ```
 3. Create a desktop shortcup to the bat and launch it
 
-[x]**Important**: do not install PyCharm v2019, it's bugged and doesn't launch correctly for QGIS development.
+**Important** do not install PyCharm v2019, it's bugged and doesn't launch correctly for QGIS development.
